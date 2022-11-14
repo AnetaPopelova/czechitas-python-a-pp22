@@ -1,16 +1,15 @@
 cisloStudenta,predmet,znamka,den
-1,Chemie,,pá
-2,Dějepis,3,pá
-3,Matematika,2,út
-2,Společenské vědy,2,pá
-4,Biologie,1,pá
-5,Dějepis,1,po
-6,Fyzika,2,čt
-7,Dějepis,4,po
-8,Matematika,2,po
-9,Dějepis,,pá
-10,Chemie,2,st
-3,Chemie,5,út
-11,Matematika,1,st
-12,Biologie,4,st
-10,Dějepis,5,st
+23,Informatika,1,po
+23,Společenské vědy,1,po
+6,Matematika,5,čt
+4,Informatika,1,pá
+16,Biologie,2,út
+20,Matematika,1,čt
+21,Informatika,4,st
+11,Chemie,5,st
+14,Dějepis,3,st
+19,Společenské vědy,,po
+13,Chemie,4,po
+22,Informatika,3,út
+1,Zeměpis,,pá
+17,Matematika,3,po
